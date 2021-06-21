@@ -110,7 +110,7 @@ def main():
     -p --port - port (default: 8080).
     -f --folder - working directory (absolute or relative path, default: current app folder FileServer).
     -i --init - initialize database.
-    -h --help - help.
+    -h --help - help!
 
     """
 
