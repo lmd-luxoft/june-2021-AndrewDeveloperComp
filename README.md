@@ -1,1 +1,1 @@
-# script-007
+# python training tasks
